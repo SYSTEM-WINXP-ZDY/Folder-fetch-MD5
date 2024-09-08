@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+F:\programming\批量取MD5\C++\MD5\MD5\Main.cpp(167,46): warning C4244: “参数”: 从“std::streamsize”转换到“size_t”，可能丢失数据
+F:\programming\批量取MD5\C++\MD5\MD5\Main.cpp(169,42): warning C4244: “参数”: 从“std::streamsize”转换到“size_t”，可能丢失数据
+  正在生成代码
+  6 of 262 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MD5.vcxproj -> F:\programming\批量取MD5\C++\MD5\Release\MD5.exe

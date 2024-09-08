@@ -1,0 +1,5 @@
+﻿  Main.cpp
+F:\programming\批量取MD5\C++\MD5\MD5\Main.cpp(40,24): warning C4267: “+=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+F:\programming\批量取MD5\C++\MD5\MD5\Main.cpp(44,24): warning C4267: “+=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+F:\programming\批量取MD5\C++\MD5\MD5\Main.cpp(127,17): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  MD5.vcxproj -> F:\programming\批量取MD5\C++\MD5\x64\Debug\MD5.exe
